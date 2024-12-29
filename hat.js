@@ -1,0 +1,1 @@
+const newVariable =345; 

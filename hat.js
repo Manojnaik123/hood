@@ -6,3 +6,8 @@ function newFunction(){
 
 
 // this comment is added by another user 
+
+
+function derivateFunction(){
+    return undefined;
+}

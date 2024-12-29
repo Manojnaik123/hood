@@ -11,3 +11,9 @@ function newFunction(){
 function derivateFunction(){
     return undefined;
 }
+
+// this is the implementation of the feature-1
+
+function getInvestments(){
+    return null;
+}
